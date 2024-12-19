@@ -3,7 +3,14 @@ function App() {
 
   return (
     <>
-     <h1>App</h1>
+    <div className="container">
+     <h1 className="app_title">Cotizador de <span>Criptomonedas</span></h1>
+
+     <div className="content">
+
+     </div>
+    </div>
+    
     </>
   )
 }
